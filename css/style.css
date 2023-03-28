@@ -73,4 +73,5 @@ h2 {
 
 ul {
     line-height: 2rem;
+    list-style-type: none;
 }
