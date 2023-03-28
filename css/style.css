@@ -4,12 +4,13 @@
     box-sizing: border-box;
 }
 
-header {
-    background-color: white;
+body {
+    font-family: sans-serif;
+    background-color: rgb(235, 234, 234);
 }
 
-body {
-    background-color: rgb(235, 234, 234);
+header {
+    background-color: white;
 }
 
 .logo-boolean {
@@ -32,4 +33,13 @@ main {
 section {
     background-color: white;
     padding-left: 40px;
+}
+
+.buttons {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.lists {
+    margin-top: 5px;
 }
