@@ -92,3 +92,37 @@ ul {
     color: red;
 }
 
+.box {
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 5px 8px;
+    color: white;
+}
+
+.editorial-box {
+    background-color: #65bcde;
+}
+
+.q1-goals-box {
+    background-color: rgb(144, 61, 144);
+}
+
+.recruiting-box {
+    background-color: rgb(0, 128, 105);
+}
+
+.mobile-box {
+    background-color: rgb(255, 165, 0);
+}
+
+.website-box {
+    background-color: rgb(228, 132, 148);
+}
+
+.sales-box {
+    background-color: rgb(138, 205, 50);
+}
+
+
+
+
