@@ -63,6 +63,14 @@ section {
     color: lightgrey;
 }
 
+h2 {
+    padding-top: 30px;
+}
+
 .lists {
     margin-top: 5px;
+}
+
+ul {
+    line-height: 2rem;
 }
