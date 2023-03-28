@@ -11,6 +11,9 @@ body {
 
 header {
     background-color: white;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
 }
 
 .logo-boolean {
@@ -25,8 +28,9 @@ h1 {
 
 main {
     width: 70%;
-    margin-top: 5%;
+    margin-top: 3%;
     margin-left: 15%;
+    color: rgb(46, 45, 45);
 
 }
 
@@ -36,8 +40,8 @@ section {
 }
 
 .buttons {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .button {
@@ -69,11 +73,16 @@ h2 {
 
 .lists {
     margin-top: 5px;
+    font-weight: bold;
 }
 
 ul {
-    line-height: 2rem;
+    line-height: 3rem;
     list-style-type: none;
+}
+
+.last-list {
+    padding-bottom: 40px;
 }
 
 .check {
