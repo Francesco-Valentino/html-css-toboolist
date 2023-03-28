@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.logo-boolean {
+    vertical-align: top;
+}
+
 h1 {
     display: inline-block;
     font-weight: bolder;
