@@ -79,6 +79,7 @@ ul {
 .check {
     border: 2px solid;
     border-radius: 50%;
+    padding: 0 2px;
 }
 
 .done {
