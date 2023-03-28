@@ -75,3 +75,8 @@ ul {
     line-height: 2rem;
     list-style-type: none;
 }
+
+.check {
+    border: 2px solid 50%;
+}
+
